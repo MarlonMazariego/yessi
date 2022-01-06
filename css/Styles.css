@@ -55,7 +55,7 @@ html {
 
 .inicio{ 
     object-fit:  cover;
-    transition: 0.5s;
+    transition: 0.9s;
 }
 
 .appWhatsapp{
@@ -140,7 +140,7 @@ html {
  }
  
  .inicio:hover{     
-    transform: scale(1.05) rotate(0.5deg);
+    transform: scale(1.02) rotate(0.2deg);
 }
 }
 
